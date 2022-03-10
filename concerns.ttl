@@ -29,6 +29,7 @@
 
 
 
+
 sto_iot:concerns rdf:type owl:Ontology ;
                                  owl:versionIRI <https://w3id.org/i40/sto/iot/0.3/concerns/> ;
                                  dcterms:title "Industrial IoT Architecture Ontology"@en ;
